@@ -1,0 +1,45 @@
+/* Style dla strony przykładowej */
+/* p { 
+    color: red;
+    background-color: yellow;
+    font-size: 50px;
+    font-weight: bold;
+} */
+
+#wstep{
+    color: red;
+        }
+
+#tresc{
+    font-size: 50px;
+    font-weight: bold;
+    color: grey;
+}
+
+.container{
+    background-color: blue;
+}
+.additionals{
+    background-color: green;
+    border-bottom: 10px solid black;
+    border-right: 10px solid black;
+
+/* border-bottom: 10px;
+border-style: solid;
+border-color:
+*/
+}
+
+/* .akapit{ 
+    background-color: yellow;
+}*/
+
+h1, h3{
+    margin: 0;
+}
+
+img{
+
+    max-width: 100%;
+    height: auto;
+}
